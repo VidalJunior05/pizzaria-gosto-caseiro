@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:20.19, sizes:['100g', '530g', '860g'], description:'A Pizza de Mussarela é coberta com molho de tomate, queijo tipo mussarela, azeitonas pretas e orégano e massa com fermentação natural, oferece mais sabor e qualidade à sua mesa.'},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:18.00, sizes:['320g', '530g', '860g'], description:'Uma deliciosa combinação de Linguiça Calabresa, rodelas de cebolas frescas, azeitonas pretas, mussarela, polpa de tomate, orégano e massa especial garante um sabor único à Pizza de Calabresa.'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:17.45, sizes:['320g', '530g', '860g'], description:'A Pizza  4 Queijos é saborosa pois é coberta com os deliciosos queijos gorgonzola, parmesão, provolone e mussarela. A massa é fermentada de forma traducional e assada em forno de pedra, ficando no ponto certo: macia por dentro e crocante por fora!'},
+    {id:4, name:'Americana', img:'images/pizza4.png', price:19.77, sizes:['320g', '530g', '860g'], description:'A Pizza Americana é uma pizza baseada em uma receita americana, é uma das melhores pizzas.'},
+    {id:5, name:'Portuguesa', img:'images/pizza5.png', price:21.43, sizes:['320g', '530g', '860g'], description:'Preparada com a deliciosa combinação de ingredientes como ervilha, azeitona, molho de tomate, cebola, ovos, queijo, linguiça calabresa e orégano, a Pizza Portuguesa é sucesso em qualquer mesa. '},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:18.55, sizes:['320g', '530g', '860g'], description:'A Pizza a moda da casa é nossa especialidade, fazemos ela com amor e carinho para que nossos clientes possam desfrutar desse delicioso sabor.'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:22.36, sizes:['320g', '530g', '860g'], description:'A Pizza de chocolate é uma pizza com cobertura especial.'}
+];
